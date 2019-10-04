@@ -1,1 +1,1 @@
-# FunProjects
+# Projects
